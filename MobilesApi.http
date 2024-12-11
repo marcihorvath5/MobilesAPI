@@ -1,0 +1,6 @@
+@MobilesApi_HostAddress = http://localhost:5195
+
+GET {{MobilesApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
